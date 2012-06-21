@@ -1,4 +1,4 @@
-### Enyo-2---Canvas-Spinner ### 
+### Enyo-2---Canvas-Spinner
 ========================
 
 Creates a Canvas Spinner wrapper as an Enyo 2 kind

@@ -29,6 +29,8 @@ Add these properties to your 'kind'
 
 `diameter: ""` Values between 10-200
 
+`range: ""` Values between 0.1 - 2.0
+
 `fps: ""` Values between 1-60
 
 

@@ -1,6 +1,6 @@
 ### Enyo-2---Canvas-Spinner
 ========================
-
+http://www.cs.clemson.edu/~tkimmet/JMTK/?page=spinner
 Creates a Canvas Spinner wrapper as an Enyo 2 kind
 
 
@@ -37,3 +37,4 @@ Add these properties to your 'kind'
 
 ### How do I see it in action? ###
 Visit the canvas spinner website: http://heartcode.robertpataki.com/canvasloader/
+or check out our demo: http://www.cs.clemson.edu/~tkimmet/JMTK/?page=spinner

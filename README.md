@@ -33,6 +33,9 @@ Add these properties to your 'kind'
 
 `fps: ""` Values between 1-60
 
+### Changing the spinner ###
+As with any published property, just type `this.$.[SPINNER NAME].set[PROPERTY]([VALUE])`, so
+for example, if my Spinner was named "spinner", and I wanted to change its speed to "4" at any point, I would type `this.$.spinner.setSpeed(4);`
 
 
 ### How do I see it in action? ###

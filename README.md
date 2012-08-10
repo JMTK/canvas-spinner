@@ -1,6 +1,6 @@
 ### Enyo-2---Canvas-Spinner
 ========================
-http://www.cs.clemson.edu/~tkimmet/JMTK/?page=spinner
+http://jmtk.us.to#spinner
 Creates a Canvas Spinner wrapper as an Enyo 2 kind
 
 

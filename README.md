@@ -40,4 +40,4 @@ for example, if my Spinner was named "spinner", and I wanted to change its speed
 
 ### How do I see it in action? ###
 Visit the canvas spinner website: http://heartcode.robertpataki.com/canvasloader/
-or check out our demo: http://jmtk.us.to#spinner
+or check out our demo: http://jmtk.co/#spinner
